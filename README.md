@@ -43,7 +43,7 @@
 ## 🏅 Logros destacados
 
 - 🏓 **Mejor deportista** de la Rama de Tenis de Mesa de la UTFSM (2014).  
-- 📖 **Investigación premiada**: Tesis de pregrado seleccionada en concurso **Tesis País, Fundación para la Superación de la Pobreza**, analizando la relación entre pobreza y expansión forestal en Chile mediante bases de datos CASEN y Censo Agropecuario, integrando análisis econométrico y territorial.  
+- 📖 **Investigación premiada**: Tesis de pregrado seleccionada en concurso **Tesis País, Fundación para la Superación de la Pobreza**, en donde analicé la relación entre pobreza y expansión forestal en la macrozona sur de Chile mediante bases de datos CASEN y Censo Agropecuario, integrando análisis econométrico y territorial.  
 
 ---
 
