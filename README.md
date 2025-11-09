@@ -1,6 +1,6 @@
 #  Hola, soy Edgardo Aguilera 🙂
 
-🎓 **Ingeniero Comercial** (Universidad Técnica Federico Santa María)  
+🎓 **Ingeniero Comercial** (Universidad Técnica Federico Santa María, Nota 100(Máxima Distinción)  
 
 📊 Experiencia en Investigación Aplicada, Pricing, Business Intelligence y Ciencia de Datos.  
 
@@ -15,16 +15,17 @@
 - **Analista Pricing – Skretting Chile (2025–presente)**  
   - Gestión de precios y rentabilidad del surtido, asegurando el desarrollo de relaciones de largo plazo con nuestros clientes, clave en industrias de alta concentración
   - Implementación de una **arquitectura RAG** para el análisis automatizado de contratos, facilitando el análisis de textos técnicos en distintos idiomas.  
-  - Desarrollo de **reportes estratégicos en Power BI** para apoyar decisiones de pricing y gestión comercial.  
+  - Desarrollo de **reportes estratégicos en Power BI** para apoyar decisiones de pricing y gestión comercial.
+  - Automatización de procesos de cálculo de precios.  
 
 - **Analista Pricing – Walmart Chile (2024–2025)**  
   Gestión de 3.500 SKU en distintos canales, asegurando rentabilidad y competitividad.  
-  Coordinación de campañas junto a marketing y operaciones.  
+  Coordinación de campañas promocionales junto a marketing y operaciones.  
   Mejora de competitividad en precios de un **2% a un 5% más barato en 8 meses**, manteniendo márgenes.  
 
 - **Analista Pricing y BI – SMU (2022–2023)**  
   Diseño de dashboards en Power BI para márgenes, promociones y rentabilidad.  
-  Aplicación de segmentación estadística avanzada de clientes.  
+  Aplicación de segmentación estadística avanzada de clientes(DBSCAN, RFM, K-Means, KNN).  
   Mejora del **CSAT de 56 a 78 puntos en 10 meses** con estrategias de personalización.  
 
 - **Data Analyst – América Economía (2021–2022)**  
@@ -42,7 +43,7 @@
 ## 🏅 Logros destacados
 
 - 🏓 **Mejor deportista** de la Rama de Tenis de Mesa de la UTFSM (2014).  
-- 📖 **Investigación premiada**: Tesis seleccionada en **Tesis País**, analizando la relación entre pobreza y expansión forestal en Chile mediante bases de datos CASEN y Censo Agropecuario, integrando análisis econométrico y territorial.  
+- 📖 **Investigación premiada**: Tesis de pregrado seleccionada en concurso **Tesis País, Fundación para la Superación de la Pobreza**, analizando la relación entre pobreza y expansión forestal en Chile mediante bases de datos CASEN y Censo Agropecuario, integrando análisis econométrico y territorial.  
 
 ---
 
@@ -67,7 +68,9 @@ Power BI · Excel avanzado · ggplot2 · matplotlib
 
 **Otros**  
 - Git / GitHub  
-- Automatización de reportes (Excel, PDF, LaTeX)  
+- Automatización de reportes (Excel, PDF, LaTeX)
+- Integración de API en Script de R(OPENAI)
+- Desarrollo de aplicaciones usando Shiny
 
 ---
 
