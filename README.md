@@ -1,6 +1,6 @@
 #  Hola, soy Edgardo Aguilera 🙂
 
-🎓 **Ingeniero Comercial** (Universidad Técnica Federico Santa María titulado con nota 100(Máxima Distinción))
+🎓 **Ingeniero Comercial** (Universidad Técnica Federico Santa María)
 
 📊 Experiencia en Investigación Aplicada, Pricing, Business Intelligence y Ciencia de Datos.  
 
