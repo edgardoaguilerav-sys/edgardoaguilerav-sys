@@ -15,8 +15,8 @@
 - **Analista Pricing – Skretting Chile (2025–presente)**  
   - Gestión de precios y rentabilidad del surtido, asegurando el desarrollo de relaciones de largo plazo con nuestros clientes, clave en industrias de alta concentración
   - Implementación de una **arquitectura RAG** para el análisis automatizado de contratos, facilitando el análisis de textos técnicos en distintos idiomas.  
-  - Desarrollo de **reportes estratégicos en Power BI** para apoyar decisiones de pricing y gestión comercial.
-  - Automatización de procesos de cálculo de precios.  
+  - Automatización de procesos de cálculo de precios.
+  - Actualmente trabajando en la creación de agente que calcule elasticidades y detecte oportunidades en pricing.
 
 - **Analista Pricing – Walmart Chile (2024–2025)**  
   Gestión de 3.500 SKU en distintos canales, asegurando rentabilidad y competitividad.  
