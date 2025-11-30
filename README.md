@@ -8,47 +8,34 @@ Hola, soy Edgardo Aguilera 🙂
 
 🚀 Experiencia profesional
 
-Analista Pricing – Skretting Chile (2025–presente)
 
-Gestión de precios y rentabilidad del surtido, fortaleciendo relaciones de largo plazo con clientes clave.
+## 🚀 Experiencia profesional
 
-Implementación de una arquitectura RAG para análisis automatizado de contratos (textos técnicos en distintos idiomas).
+- **Analista Pricing – Skretting Chile (2025–presente)**
+  - Gestión de precios y rentabilidad del surtido, fortaleciendo relaciones de largo plazo con clientes clave.
+  - Implementación de una arquitectura RAG para análisis automatizado de contratos (textos técnicos en distintos idiomas).
+  - Automatización de procesos de cálculo de precios.
+  - Actualmente trabajando en un agente para estimar elasticidades, explicar cambios y detectar oportunidades en pricing.
 
-Automatización de procesos de cálculo de precios.
+- **Analista Pricing – Walmart Chile (2024–2025)**
+  - Gestión de 3.500 SKU en distintos canales, asegurando rentabilidad y competitividad.
+  - Coordinación de campañas promocionales con marketing y operaciones.
+  - Mejora de competitividad de precios: 2% a 5% más barato en 8 meses, manteniendo márgenes.
 
-Actualmente trabajando en un agente para estimar elasticidades, explique cambios y detecte oportunidades en pricing.
+- **Analista Pricing & BI – SMU (2022–2023)**
+  - Diseño de dashboards en Power BI para márgenes, promociones y rentabilidad.
+  - Segmentación avanzada de clientes (DBSCAN, RFM, K-Means, KNN).
+  - Mejora de CSAT de 56 a 78 en 10 meses mediante estrategias de personalización.
 
-Analista Pricing – Walmart Chile (2024–2025)
+- **Data Analyst – AméricaEconomía (2021–2022)**
+  - Desarrollo de rankings e indicadores clave de desempeño en educación.
+  - Traducción de insights en estrategias de posicionamiento.
+  - Incremento de ventas de asesorías en 25% vs. período anterior.
 
-Gestión de 3.500 SKU en distintos canales, asegurando rentabilidad y competitividad.
-
-Coordinación de campañas promocionales con marketing y operaciones.
-
-Mejora de competitividad de precios: 2% a 5% más barato en 8 meses, manteniendo márgenes.
-
-Analista Pricing & BI – SMU (2022–2023)
-
-Diseño de dashboards en Power BI para márgenes, promociones y rentabilidad.
-
-Segmentación avanzada de clientes (DBSCAN, RFM, K-Means, KNN).
-
-Mejora de CSAT de 56 a 78 en 10 meses mediante estrategias de personalización.
-
-Data Analyst – AméricaEconomía (2021–2022)
-
-Desarrollo de rankings e indicadores clave de desempeño en educación.
-
-Traducción de insights en estrategias de posicionamiento.
-
-Incremento de ventas de asesorías en 25% vs. período anterior.
-
-Asistente de Investigación – UTFSM (2019–2021)
-
-Aplicación de métodos cuasi-experimentales (matching) en R.
-
-Desarrollo de publicaciones científicas y scripts reproducibles.
-
-Logro: +100% publicaciones aceptadas en revistas indexadas WoS/Scielo en 2 años.
+- **Asistente de Investigación – UTFSM (2019–2021)**
+  - Aplicación de métodos cuasi-experimentales (matching) en R.
+  - Desarrollo de publicaciones científicas y scripts reproducibles.
+  - Logro: +100% publicaciones aceptadas en revistas indexadas WoS/Scielo en 2 años.
 
 🏅 Logros destacados
 
