@@ -6,9 +6,6 @@ Hola, soy Edgardo Aguilera 🙂
 
 🔍 Actualmente desarrollo arquitecturas RAG (Retrieval-Augmented Generation) para análisis de documentos en entornos empresariales, integrando Python + R y librerías modernas de IA.
 
-🚀 Experiencia profesional
-
-
 ## 🚀 Experiencia profesional
 
 - **Analista Pricing – Skretting Chile (2025–presente)**
