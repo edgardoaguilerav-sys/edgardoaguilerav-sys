@@ -39,7 +39,7 @@ Hola, soy Edgardo Aguilera 🙂
 🏓 Mejor deportista – Rama de Tenis de Mesa UTFSM (2014).
 
 📖 Investigación premiada – Tesis seleccionada en Tesis País (Fundación Superación de la Pobreza):
-análisis de la relación entre pobreza y expansión forestal en la macrozona sur (CASEN + Censo Agropecuario), combinando econometría y análisis territorial.
+Análisis de la relación entre pobreza y expansión forestal en la macrozona sur (CASEN + Censo Agropecuario), combinando econometría y análisis territorial.
 
 ## 🛠️ Habilidades y herramientas
 
