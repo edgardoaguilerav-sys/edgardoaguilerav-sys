@@ -75,7 +75,6 @@ Power BI · Excel avanzado · ggplot2 · matplotlib
 ---
 
 ## 📂 Repositorios destacados
-## 📌 Repositorio destacado
 - 📘 [RAG-Presidenciales-Chile-2025](https://github.com/edgardoaguilerav-sys/RAG-Presidenciales-Chile-2025)
  
   
