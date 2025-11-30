@@ -75,8 +75,9 @@ Power BI · Excel avanzado · ggplot2 · matplotlib
 ---
 
 ## 📂 Repositorios destacados
-🔹 [Arquitectura RAG para análisis de contratos](#)  
-🔹 [Segmentación de clientes con R y Python](#)  
+## 📌 Repositorio destacado
+- 📘 [RAG-Presidenciales-Chile-2025](https://github.com/edgardoaguilerav-sys/RAG-Presidenciales-Chile-2025)
+ 
   
 *(Pronto más proyectos 👨‍💻)*  
 
