@@ -1,93 +1,108 @@
-#  Hola, soy Edgardo Aguilera 🙂
+Hola, soy Edgardo Aguilera 🙂
 
-🎓 **Ingeniero Comercial** (Universidad Técnica Federico Santa María)
+🎓 Ingeniero Comercial (Universidad Técnica Federico Santa María)
 
-📊 Experiencia en Investigación Aplicada, Pricing, Business Intelligence y Ciencia de Datos.  
+📊 Experiencia en investigación aplicada, pricing, business intelligence y ciencia de datos.
 
-🔍 Actualmente desarrollando **arquitecturas RAG (Retrieval-Augmented Generation)** para el análisis de documentos en entornos empresariales, integrando Python y R con librerías de IA de última generación.  
- 
- 
+🔍 Actualmente desarrollo arquitecturas RAG (Retrieval-Augmented Generation) para análisis de documentos en entornos empresariales, integrando Python + R y librerías modernas de IA.
 
----
+🚀 Experiencia profesional
 
-## 🚀 Experiencia profesional
+Analista Pricing – Skretting Chile (2025–presente)
 
-- **Analista Pricing – Skretting Chile (2025–presente)**  
-  - Gestión de precios y rentabilidad del surtido, asegurando el desarrollo de relaciones de largo plazo con nuestros clientes, clave en industrias de alta concentración
-  - Implementación de una **arquitectura RAG** para el análisis automatizado de contratos, facilitando el análisis de textos técnicos en distintos idiomas.  
-  - Automatización de procesos de cálculo de precios.
-  - Actualmente trabajando en la creación de agente que calcule elasticidades y detecte oportunidades en pricing.
+Gestión de precios y rentabilidad del surtido, fortaleciendo relaciones de largo plazo con clientes clave.
 
-- **Analista Pricing – Walmart Chile (2024–2025)**  
-  Gestión de 3.500 SKU en distintos canales, asegurando rentabilidad y competitividad.  
-  Coordinación de campañas promocionales junto a marketing y operaciones.  
-  Mejora de competitividad en precios de un **2% a un 5% más barato en 8 meses**, manteniendo márgenes.  
+Implementación de una arquitectura RAG para análisis automatizado de contratos (textos técnicos en distintos idiomas).
 
-- **Analista Pricing y BI – SMU (2022–2023)**  
-  Diseño de dashboards en Power BI para márgenes, promociones y rentabilidad.  
-  Aplicación de segmentación estadística avanzada de clientes(DBSCAN, RFM, K-Means, KNN).  
-  Mejora del **CSAT de 56 a 78 puntos en 10 meses** con estrategias de personalización.  
+Automatización de procesos de cálculo de precios.
 
-- **Data Analyst – América Economía (2021–2022)**  
-  Desarrollo de rankings e indicadores clave de desempeño en educación.  
-  Traducción de insights en estrategias de posicionamiento.  
-  Incremento de ventas de asesorías en **25%** respecto al período anterior.  
+Actualmente trabajando en un agente para estimar elasticidades, explique cambios y detecte oportunidades en pricing.
 
-- **Asistente de Investigación – UTFSM (2019–2021)**  
-  Aplicación de **métodos cuasi-experimentales (matching algorithms)** en RStudio.  
-  Desarrollo de publicaciones científicas y scripts reproducibles.  
-  Logro: **+100% publicaciones aceptadas en revistas indexadas WOS/Scielo en 2 años**.  
+Analista Pricing – Walmart Chile (2024–2025)
 
----
+Gestión de 3.500 SKU en distintos canales, asegurando rentabilidad y competitividad.
 
-## 🏅 Logros destacados
+Coordinación de campañas promocionales con marketing y operaciones.
 
-- 🏓 **Mejor deportista** de la Rama de Tenis de Mesa de la UTFSM (2014).  
-- 📖 **Investigación premiada**: Tesis de pregrado seleccionada en concurso **Tesis País, Fundación para la Superación de la Pobreza**, en donde analicé la relación entre pobreza y expansión forestal en la macrozona sur de Chile mediante bases de datos CASEN y Censo Agropecuario, integrando análisis econométrico y territorial.  
+Mejora de competitividad de precios: 2% a 5% más barato en 8 meses, manteniendo márgenes.
 
----
+Analista Pricing & BI – SMU (2022–2023)
 
-## 🛠️ Habilidades y herramientas
+Diseño de dashboards en Power BI para márgenes, promociones y rentabilidad.
 
-**Lenguajes**  
-`Python` · `R` · `SQL`  
+Segmentación avanzada de clientes (DBSCAN, RFM, K-Means, KNN).
 
-**Business Intelligence**  
-Power BI · Excel avanzado · ggplot2 · matplotlib  
+Mejora de CSAT de 56 a 78 en 10 meses mediante estrategias de personalización.
 
-**Análisis y modelación**  
-- Segmentación de clientes (RFM, K-Means, Hierarchical Analysis, DBSCAN)
-- Modelos econométricos y cuasi-experimentales(Matching)
-- Pricing & Revenue Management  
+Data Analyst – AméricaEconomía (2021–2022)
 
-**IA aplicada a documentos**  
-- **Embeddings y búsqueda semántica**: FAISS, Annoy  
-- **Procesamiento de texto**: HuggingFace Transformers  
-- **RAG y orquestación**: RAGas, pipelines híbridos en Python/R  
-- **Modelos de lenguaje**: integración de LLMs en análisis contractual  
+Desarrollo de rankings e indicadores clave de desempeño en educación.
 
-**Otros**  
-- Git / GitHub  
-- Automatización de reportes (Excel, PDF, LaTeX)
-- Integración de API en Script de R(OPENAI)
-- Desarrollo de aplicaciones usando Shiny
+Traducción de insights en estrategias de posicionamiento.
 
----
+Incremento de ventas de asesorías en 25% vs. período anterior.
 
-## 📁 Repositorios destacados
+Asistente de Investigación – UTFSM (2019–2021)
 
-- 📘 [RAG-Presidenciales-Chile-2025](https://github.com/edgardoaguilerav-sys/RAG-Presidenciales-Chile-2025)  
-  Arquitectura RAG para consultar propuestas presidenciales (Chile 2025) con citas por página (CLI + Shiny).
+Aplicación de métodos cuasi-experimentales (matching) en R.
 
-*(Pronto más proyectos 🧑‍💻)*
+Desarrollo de publicaciones científicas y scripts reproducibles.
 
----
+Logro: +100% publicaciones aceptadas en revistas indexadas WoS/Scielo en 2 años.
 
-## 🌐 Conectemos
+🏅 Logros destacados
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/edgardo-aguilera-venegas-a10a86289/)
-- ✉️ edgardo.aguilera.v@gmail.com  
+🏓 Mejor deportista – Rama de Tenis de Mesa UTFSM (2014).
 
----
+📖 Investigación premiada – Tesis seleccionada en Tesis País (Fundación Superación de la Pobreza):
+análisis de la relación entre pobreza y expansión forestal en la macrozona sur (CASEN + Censo Agropecuario), combinando econometría y análisis territorial.
 
-✨ *Me apasiona combinar ciencia de datos, pricing e inteligencia artificial aplicada para transformar datos en decisiones estratégicas y conocimiento accionable.*  
+🛠️ Habilidades y herramientas
+
+Lenguajes
+Python · R · SQL
+
+Business Intelligence
+Power BI · Excel avanzado · ggplot2 · matplotlib
+
+Análisis y modelación
+
+Segmentación de clientes (RFM, K-Means, jerárquico, DBSCAN)
+
+Modelos econométricos y cuasi-experimentales (matching)
+
+Pricing & Revenue Management
+
+IA aplicada a documentos
+
+Embeddings y búsqueda semántica: FAISS, Annoy
+
+Procesamiento de texto: Hugging Face Transformers
+
+RAG y evaluación: RAGAS, pipelines híbridos en Python/R
+
+Modelos de lenguaje: integración de LLMs para análisis documental
+
+Otros
+
+Git / GitHub
+
+Automatización de reportes (Excel, PDF, LaTeX)
+
+Integración de API en R (OpenAI)
+
+Desarrollo de aplicaciones con Shiny
+
+📁 Repositorios destacados
+
+📘 RAG-Presidenciales-Chile-2025
+
+Arquitectura RAG para consultar propuestas presidenciales (Chile 2025) con citas por página (CLI + Shiny).
+
+(Pronto más proyectos 🧑‍💻)
+
+🌐 Conectemos
+
+💼 LinkedIn
+
+✉️ edgardo.aguilera.v [at] gmail.com
