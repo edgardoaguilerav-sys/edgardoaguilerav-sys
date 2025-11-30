@@ -44,41 +44,31 @@ Hola, soy Edgardo Aguilera 🙂
 📖 Investigación premiada – Tesis seleccionada en Tesis País (Fundación Superación de la Pobreza):
 análisis de la relación entre pobreza y expansión forestal en la macrozona sur (CASEN + Censo Agropecuario), combinando econometría y análisis territorial.
 
-🛠️ Habilidades y herramientas
+## 🛠️ Habilidades y herramientas
 
-Lenguajes
-Python · R · SQL
+- **Lenguajes**
+  - Python · R · SQL
 
-Business Intelligence
-Power BI · Excel avanzado · ggplot2 · matplotlib
+- **Business Intelligence & Visualización**
+  - Power BI · Excel avanzado
+  - ggplot2 · matplotlib
 
-Análisis y modelación
+- **Análisis & Modelación**
+  - Segmentación de clientes: RFM · K-Means · Jerárquico · DBSCAN
+  - Econometría aplicada: cuasi-experimentos y *matching*
+  - Pricing & Revenue Management
 
-Segmentación de clientes (RFM, K-Means, jerárquico, DBSCAN)
+- **IA aplicada a documentos (NLP / RAG)**
+  - Embeddings & búsqueda semántica: FAISS · Annoy
+  - Procesamiento de texto: Hugging Face Transformers
+  - RAG & evaluación: RAGAS · pipelines híbridos en Python/R
+  - Modelos de lenguaje: integración de LLMs para análisis documental
 
-Modelos econométricos y cuasi-experimentales (matching)
-
-Pricing & Revenue Management
-
-IA aplicada a documentos
-
-Embeddings y búsqueda semántica: FAISS, Annoy
-
-Procesamiento de texto: Hugging Face Transformers
-
-RAG y evaluación: RAGAS, pipelines híbridos en Python/R
-
-Modelos de lenguaje: integración de LLMs para análisis documental
-
-Otros
-
-Git / GitHub
-
-Automatización de reportes (Excel, PDF, LaTeX)
-
-Integración de API en R (OpenAI)
-
-Desarrollo de aplicaciones con Shiny
+- **Otros**
+  - Git / GitHub
+  - Automatización de reportes: Excel · PDF · LaTeX
+  - Integración de API en R: OpenAI
+  - Desarrollo de aplicaciones: Shiny
 
 📁 Repositorios destacados
 
