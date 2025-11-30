@@ -85,7 +85,7 @@ Power BI · Excel avanzado · ggplot2 · matplotlib
 
 ## 🌐 Conectemos
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/edgardoaguilerav)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/edgardo-aguilera-venegas-a10a86289/)
 - ✉️ edgardo.aguilera.v@gmail.com  
 
 ---
