@@ -77,6 +77,8 @@ Arquitectura RAG para consultar propuestas presidenciales (Chile 2025) con citas
 
 🌐 Conectemos
 
-💼 LinkedIn
+## 🌐 Conectemos
 
-✉️ edgardo.aguilera.v [at] gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/edgardo-aguilera-venegas-a10a86289/)
+- ✉️ edgardo.aguilera.v@gmail.com
+
