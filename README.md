@@ -12,7 +12,7 @@
   - Gestión de precios y rentabilidad del surtido, fortaleciendo relaciones de largo plazo con clientes clave.
   - Implementación de una arquitectura **RAG** para análisis automatizado de contratos (textos técnicos en distintos idiomas).
   - Automatización de procesos de cálculo de precios.
-  - Desarrollo de un agente para **estimar elasticidades**, explicar cambios y detectar oportunidades en pricing.
+  - Actualmente trabajando en un Agente para **estimar elasticidades**, explicar cambios y detectar oportunidades en pricing.
 
 - **Analista Pricing – Walmart Chile (2024–2025)**
   - Gestión de **3.500 SKU** en distintos canales, asegurando rentabilidad y competitividad.
